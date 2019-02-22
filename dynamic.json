@@ -1,0 +1,44 @@
+{
+	"profile":{
+		"img":"picture.jpg",
+		"name":"pushpa",
+		"rollno":"1215",
+		"place":"venkatakrishnapuram",
+		"email":"dpushpa2000@gmail.com"
+	},
+	"career":{
+		"info":"i want to seek a job in reputed company to explore my taught for the benefits of company"
+	},
+	"education":[
+       {
+       	"degree":"b.tech",
+       	"institute":"vignan",
+       	"per":"78%",
+       	"yop":"2018"
+       },
+       {
+       	"degree":"inter",
+       	"institute":"srichaiatanya",
+       	"per":"94%",
+       	"yop":"2017"
+       },
+       {
+       	"degree":"ssc",
+       	"institute":"siddhartha",
+       	"per":"80%",
+       	"yop":"2015"
+       }
+
+	],
+	"languages":[
+		{
+			"info":"english"
+		},
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"hindi"
+		}
+		]
+}
